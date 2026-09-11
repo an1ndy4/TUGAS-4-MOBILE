@@ -1,17 +1,31 @@
-# tugas_4
+# Tugas 4 Pemrograman Mobile - Ichiraku Ramen Bar App
 
-A new Flutter project.
+Aplikasi mobile sederhana berbasis Flutter untuk halaman detail restoran Ichiraku Ramen Bar. Aplikasi ini mencakup UI banner interaktif, estimasi waktu/jarak, kategori menu yang dapat di-scroll, daftar item makanan, dan tombol pemesanan.
 
-## Getting Started
+## 📹 Demo Aplikasi (YouTube)
+Tonton video demonstrasi dan penjelasan aplikasi di YouTube:
+- **Link Video Demo:** [Klik di Sini untuk Menonton Video Demo](https://youtu.be/W2xJk5bQZrg)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Fitur Aplikasi
+- **Dynamic Header:** Menggunakan `SliverAppBar` untuk efek animasi scroll banner makanan.
+- **Badge Label:** Menampilkan sertifikasi Halal dan rating restoran.
+- **Filter Kategori Menu:** Kategori menu horizontal berbasis `StatefulWidget`.
+- **Custom Cards:** Komponen item makanan yang dapat digunakan kembali (`Reusable Widgets`).
+- **Cart Bottom Bar:** Baris total pesanan dan tombol pesan melayang di bagian bawah layar.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Teknologi & Modul
+- **Framework:** Flutter SDK
+- **Language:** Dart
+- **UI Components:** Material Design 3 (`CustomScrollView`, `SliverAppBar`, `ListView.builder`, `Card`)
+
+---
+
+## 📱 Cara Menjalankan Proyek
+1. Clone repositori ini:
+   ```bash
+   git clone [https://github.com/an1ndy4/TUGAS-4-MOBILE.git](https://github.com/an1ndy4/TUGAS-4-MOBILE.git)
+
